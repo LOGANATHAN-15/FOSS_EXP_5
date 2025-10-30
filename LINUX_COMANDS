@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt install ansible -y
+ansible --version
+
+cd /mnt/c/Users/User/Desktop/FOSS_EXP_5_UPDATED     -->get into ur project folder--> and the path turns into blue
+
+ansible-playbook deploy.yml        -->here also you chk path crtly
