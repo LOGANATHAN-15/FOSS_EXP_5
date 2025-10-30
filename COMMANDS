@@ -1,0 +1,9 @@
+COMMANDS :
+TO Run ---> node index.js
+
+for code from scratch:
+1.npm init-y
+2.npm install
+3.npm install express dotenv mongoose
+4.update env file
+5.node index.js
